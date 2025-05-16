@@ -1,13 +1,18 @@
-<user>
+<users>
+  <user1>
     <name>Ixtiyorjon</name>
     <lastname>Abdurahmonov</lastname>
-    <educations>
       <education type="university">
-      <name>FARDU</name>
-      <department>Iqtisod</department>
-    </education>
-        <education type="school">
-      <name>4</name>
-    </education>
-    </educations>
-</user>
+        <name>FARDU</name>
+        <department>Iqtisod</department>
+      </education>
+  </user1>
+  <user2>
+      <name>Ali</name>
+      <lastname>VAliev</lastname>
+      <education type="university">
+        <name>TATU</name>
+        <department>Iqtisod</department>
+      </education>
+  </user2>
+</users>
