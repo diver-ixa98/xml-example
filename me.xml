@@ -1,6 +1,8 @@
 <user>
     <name>Ixtiyorjon</name>
-    <lastname>Abdurahmonov</lastnamee>
-    <education>FARDU</education>
-    <faculty>Iqtisod</faculty>
+    <lastname>Abdurahmonov</lastname>
+    <education>
+      <name>FARDU</name>
+      <department>Iqtisod</department>
+    </education>
 </user>
