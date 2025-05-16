@@ -1,8 +1,13 @@
 <user>
     <name>Ixtiyorjon</name>
     <lastname>Abdurahmonov</lastname>
-    <education>
+    <educations>
+      <education type="university">
       <name>FARDU</name>
       <department>Iqtisod</department>
     </education>
+        <education type="school">
+      <name>4</name>
+    </education>
+    </educations>
 </user>
